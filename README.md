@@ -7,5 +7,5 @@ To use the following LC-3 code, please download and install the latest Java Runt
 
 <p><i>1) Open the executable PenSim JAR file, <br>
 
-and type as <file>.asm, ENTER, ld <file>.obj, ENTER<br>
+and type as (file).asm, ENTER, ld (file).obj, ENTER<br>
 set PC x3000, ENTER. Then type continue to run. <br></i>
